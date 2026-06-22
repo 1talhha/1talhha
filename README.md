@@ -157,8 +157,4 @@ A platform that connects blood donors with recipients, enabling quick blood requ
 
 ---
 
-<p align="center">
 
-⭐ If you like my work, consider following me and checking out my repositories!
-
-</p>
