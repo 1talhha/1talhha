@@ -14,7 +14,7 @@
 
 - 🎓 Software Engineering Graduate
 - 💻 Full Stack Web Developer
-- 🌱 Currently learning **System Design, AWS, Docker & DSA**
+- 🤖 Currently exploring **Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)**.
 - 🔍 Looking for **Software Engineer** opportunities
 - ❤️ Love building products that solve real-world problems
 
